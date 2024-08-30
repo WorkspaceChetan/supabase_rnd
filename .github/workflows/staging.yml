@@ -9,7 +9,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+ 
     env:
       SUPABASE_ACCESS_TOKEN: sbp_e1b6b3626881dd542d8db17481d60d24de2a8a6b
       SUPABASE_DB_PASSWORD: Test_123#3211
